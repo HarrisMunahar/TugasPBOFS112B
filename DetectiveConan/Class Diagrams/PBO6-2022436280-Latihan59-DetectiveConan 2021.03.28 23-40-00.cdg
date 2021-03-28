@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="PBO6-2022436280-Latihan59-DetectiveConan">
+  <ClassDiagramComponents>
+    <Class name="AiHaibara" package="" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="AyumiYoshida" package="" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="GentaKojima" package="" visibility="public" xPosition="620.0" yPosition="20.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="HeijiHattori" package="" visibility="public" xPosition="920.0" yPosition="20.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="KazuhaToyama" package="" visibility="public" xPosition="1220.0" yPosition="20.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="KogoroMouri" package="" visibility="public" xPosition="1520.0" yPosition="20.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Main" package="" visibility="public" xPosition="1820.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="MitsuhikoTsuburaya" package="" visibility="public" xPosition="2120.0" yPosition="20.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="RanMouri" package="" visibility="public" xPosition="20.0" yPosition="420.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="ShinichiKudo" package="" visibility="public" xPosition="320.0" yPosition="420.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="SonokoSuzuki" package="" visibility="public" xPosition="620.0" yPosition="420.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="SumikoKobayashi" package="" visibility="public" xPosition="920.0" yPosition="420.0">
+      <Fields/>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="TokohDetectiveConan" package="" visibility="public" xPosition="1220.0" yPosition="420.0">
+      <Fields>
+        <Field name="nama" type="String" visibility="protected"/>
+        <Field name="sifat" type="String" visibility="protected"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="daftarKategoriTokoh" returnType="void" visibility="public"/>
+        <Method name="siapaKamu" returnType="void" visibility="public"/>
+        <Method name="kemampuanKamu" returnType="void" visibility="public"/>
+        <Method name="kelemahanKamu" returnType="void" visibility="public"/>
+        <Method name="tampilDataTokoh" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="TokohPendukung" package="" visibility="public" xPosition="1520.0" yPosition="420.0">
+      <Fields>
+        <Field name="daftarTokoh" type="String[]" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="daftarTokohPendukung" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="TokohUtama" package="" visibility="public" xPosition="1820.0" yPosition="420.0">
+      <Fields>
+        <Field name="daftarTokoh" type="String[]" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="daftarTokohUtama" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="GentaKojima" target="TokohUtama"/>
+    <IsRelation name="is" source="KazuhaToyama" target="TokohUtama"/>
+    <IsRelation name="is" source="TokohPendukung" target="TokohDetectiveConan"/>
+    <IsRelation name="is" source="SonokoSuzuki" target="TokohUtama"/>
+    <IsRelation name="is" source="RanMouri" target="TokohUtama"/>
+    <IsRelation name="is" source="AyumiYoshida" target="TokohUtama"/>
+    <IsRelation name="is" source="AiHaibara" target="TokohUtama"/>
+    <IsRelation name="is" source="SumikoKobayashi" target="TokohUtama"/>
+    <IsRelation name="is" source="HeijiHattori" target="TokohUtama"/>
+    <IsRelation name="is" source="ShinichiKudo" target="TokohUtama"/>
+    <IsRelation name="is" source="TokohUtama" target="TokohDetectiveConan"/>
+    <IsRelation name="is" source="KogoroMouri" target="TokohUtama"/>
+    <IsRelation name="is" source="MitsuhikoTsuburaya" target="TokohUtama"/>
+  </ClassDiagramRelations>
+</ClassDiagram>
